@@ -1,4 +1,4 @@
-#hyperblog
+# hyperblog
 Un blog increible para el curso de Git y Github de Platzi
 >El curso de Git y Github de Platzi me hacia mucha falta para tripiclar mis conocimientos y larzarme a la industria del trabajo del software.
 > - Rafael
