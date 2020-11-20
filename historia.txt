@@ -1,5 +1,9 @@
 Master 1
 
+<<<<<<< HEAD
 experimento1
 
 experimento2
+=======
+Master2
+>>>>>>> 05696c1... master2
